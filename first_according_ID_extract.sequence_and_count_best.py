@@ -2,11 +2,11 @@ import math
 # print('\n'.join(['chenhuilong']))
 # 根据ID从fasta文件中提取ID对应的fasta文件
 
-gene_name = open('id_Sb_13.TLP.txt') #your gene_family id
+gene_name = open('Si.PME.Ordered.ID.txt') #your gene_family id
 
-fasta_file = open('Sb.TLP.pro.13.3.fasta') #the whole genomes
+fasta_file = open('chen.promoter.1000.fasta') #the whole genomes
 
-out_file = open('Sb.TLP.pro.13.2.fasta','w') #the result file
+out_file = open('Si.PME.Promoter.fasta','w') #the result file
 
 chl_fasta = {}
 gene = seq = ''
