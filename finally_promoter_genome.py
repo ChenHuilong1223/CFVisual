@@ -13,7 +13,7 @@ def reverse_complement(seq):
   RevComSeq = ''.join(RevComSeqList)
   return RevComSeq
   
-def y(x):
+def y(x): # 这个y函数不调用，就是整行输出，把函数里的3个80改成60等其他数字，就是按照60等其他字符一行输出
 	return '\n'.join([x[80*i:80*(i+1)] for i in range(math.ceil(len(x) / 80))])
 
 out = open('chen.promoter.1000.fasta','w') # 生成的谷子全基因组的假定启动子DNA fasta文件
