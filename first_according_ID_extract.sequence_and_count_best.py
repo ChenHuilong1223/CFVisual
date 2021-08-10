@@ -1,5 +1,6 @@
 import math
 # print('\n'.join(['chenhuilong']))
+# 根据ID从fasta文件中提取ID对应的fasta文件
 
 gene_name = open('id_Sb_13.TLP.txt') #your gene_family id
 
