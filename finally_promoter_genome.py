@@ -14,19 +14,18 @@ def reverse_complement(seq):
   return RevComSeq
   
 def y(x):
-	# return '\n'.join([x[60*i:60*(i+1)] for i in range(len(x) // 60+1)])
 	return '\n'.join([x[80*i:80*(i+1)] for i in range(math.ceil(len(x) / 80))])
 
-out = open('chen.promoter.1000.fasta','w')
+out = open('chen.promoter.1000.fasta','w') # 生成的谷子全基因组的假定启动子DNA fasta文件
 # 处理4.pro文件
-df = pd.read_csv(r'Sitalica_312_v2.fa', header=None)
+df = pd.read_csv(r'Sitalica_312_v2.fa', header=None) # 谷子基因组文件（染色体DNA fasta序列那个）
 df['chro'] = df[df[0].str.startswith('>')]
 df = df.fillna(method='pad').rename(columns={0: 'seq'})
 pro_4 = df[~(df.index.isin(df[df['seq'].str.startswith('>')].index))].groupby(['chro']).agg({'seq': f}).reset_index()
 #pro_4.index = pro_4.index.str.slice(start=1)
 #print(pro_4)
 # 处理gff文件
-gff = pd.read_csv('Sitalica_312_v2.2.gene.gff3',skiprows=3,  header=None, sep='\t')
+gff = pd.read_csv('Sitalica_312_v2.2.gene.gff3',skiprows=3,  header=None, sep='\t') # 谷子GFF3文件，前三行是#开头的注释文件
 gff = gff.rename(columns={k: v for k, v in enumerate(['chro', 'phy','m', 'start', 'stop', 'point','trend','phrase', 'ID'])})
 gff1 = gff[gff.m.isin(['mRNA'])].loc[:, ['chro', 'm', 'start', 'stop', 'trend','ID']]
 #print(gff1)
