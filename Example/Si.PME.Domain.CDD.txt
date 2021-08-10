@@ -1,0 +1,67 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1980F25DCC020D6D-3546385E3D8D24A3
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-03-01T06:06:24	Run time	0:00:00:25
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Si5G022500.1	specific	307307	100	397	0	547.237	pfam01095	Pectinesterase	 - 	cl29893
+Q#1 - >Si5G022500.1	specific	335590	1	37	0.00035297	40.5788	pfam04043	PMEI	N	cl04375
+Q#2 - >Si2G430600.1	specific	307307	286	583	0	551.86	pfam01095	Pectinesterase	 - 	cl29893
+Q#2 - >Si2G430600.1	specific	335590	90	239	6.33157e-21	89.1139	pfam04043	PMEI	 - 	cl04375
+Q#3 - >Si7G123200.1	specific	307307	250	546	0	563.03	pfam01095	Pectinesterase	 - 	cl29893
+Q#3 - >Si7G123200.1	specific	335590	49	196	1.84824e-32	121.471	pfam04043	PMEI	 - 	cl04375
+Q#4 - >Si6G168400.1	specific	307307	192	503	0	535.296	pfam01095	Pectinesterase	 - 	cl29893
+Q#4 - >Si6G168400.1	specific	335590	19	137	1.50613e-11	62.15	pfam04043	PMEI	N	cl04375
+Q#5 - >Si2G214500.1	superfamily	356769	320	616	4.92936e-171	488.687	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#5 - >Si2G214500.1	specific	335590	112	256	1.06558e-32	122.626	pfam04043	PMEI	 - 	cl04375
+Q#6 - >Si7G258300.1	specific	307307	296	591	0	519.118	pfam01095	Pectinesterase	 - 	cl29893
+Q#6 - >Si7G258300.1	specific	335590	45	186	3.05194e-33	124.167	pfam04043	PMEI	 - 	cl04375
+Q#7 - >Si6G168500.1	specific	307307	356	650	0	516.036	pfam01095	Pectinesterase	 - 	cl29893
+Q#7 - >Si6G168500.1	specific	335590	89	230	1.30692e-31	119.93	pfam04043	PMEI	 - 	cl04375
+Q#8 - >Si5G022600.1	specific	307307	226	526	0	511.028	pfam01095	Pectinesterase	 - 	cl29893
+Q#8 - >Si5G022600.1	specific	335590	38	183	1.13654e-23	96.8179	pfam04043	PMEI	 - 	cl04375
+Q#9 - >Si8G075500.1	superfamily	356769	306	605	9.14956e-168	479.827	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#9 - >Si8G075500.1	specific	335590	120	261	1.08371e-20	88.7287	pfam04043	PMEI	 - 	cl04375
+Q#10 - >Si1G129700.1	superfamily	356769	246	561	2.95368e-172	489.457	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#10 - >Si1G129700.1	specific	335590	131	155	6.26163e-05	43.2752	pfam04043	PMEI	N	cl04375
+Q#11 - >Si2G441400.1	superfamily	356769	243	540	1.6581e-165	472.123	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#11 - >Si2G441400.1	specific	335590	45	194	5.92796e-33	123.011	pfam04043	PMEI	 - 	cl04375
+Q#12 - >Si9G434800.1	superfamily	356769	243	539	1.3904e-165	472.123	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#12 - >Si9G434800.1	specific	335590	42	191	8.72355e-36	130.715	pfam04043	PMEI	 - 	cl04375
+Q#13 - >Si5G058300.1	specific	307307	278	571	1.21044e-177	503.71	pfam01095	Pectinesterase	 - 	cl29893
+Q#13 - >Si5G058300.1	specific	335590	49	212	6.99882e-25	100.285	pfam04043	PMEI	 - 	cl04375
+Q#14 - >Si5G450500.1	superfamily	356769	7	308	3.61639e-151	425.899	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#15 - >Si4G042100.1	superfamily	356769	309	603	3.29529e-151	437.455	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#15 - >Si4G042100.1	specific	335590	81	245	4.64928e-12	63.6908	pfam04043	PMEI	 - 	cl04375
+Q#16 - >Si1G343000.1	superfamily	356769	240	546	5.86602e-159	455.174	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#16 - >Si1G343000.1	specific	335590	50	190	3.51405e-23	95.6623	pfam04043	PMEI	 - 	cl04375
+Q#17 - >Si9G373000.1	superfamily	356769	263	564	1.58606e-145	422.047	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#17 - >Si9G373000.1	specific	335590	56	205	6.06265e-16	74.8616	pfam04043	PMEI	 - 	cl04375
+Q#18 - >Si5G402500.1	superfamily	356769	234	535	4.62191e-138	401.246	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#18 - >Si5G402500.1	specific	335590	54	124	1.71112e-05	44.816	pfam04043	PMEI	C	cl04375
+Q#19 - >Si3G370800.1	superfamily	356769	55	353	1.7297e-122	355.023	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#20 - >Si7G104600.1	superfamily	356769	147	453	1.36576e-136	394.313	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#21 - >Si5G344400.1	superfamily	356769	139	442	4.54888e-124	362.341	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#21 - >Si5G344400.1	specific	335590	27	90	0.000766945	39.8084	pfam04043	PMEI	N	cl04375
+Q#22 - >Si3G376400.1	superfamily	356769	21	298	6.22038e-100	296.472	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#23 - >Si5G313900.1	superfamily	356769	113	397	8.35965e-89	270.664	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#24 - >Si2G263400.1	superfamily	356769	7	286	1.90541e-95	283.761	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#25 - >Si3G174200.1	superfamily	356769	110	395	2.01882e-84	259.108	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#26 - >Si2G384400.1	superfamily	356769	57	349	1.17762e-87	265.656	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#27 - >Si9G259700.1	superfamily	356769	11	304	1.04419e-85	259.493	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#28 - >Si6G026700.1	superfamily	356769	93	385	1.68996e-82	254.1	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#29 - >Si9G525400.1	superfamily	356769	20	307	1.06599e-84	257.182	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#30 - >Si1G371700.1	superfamily	356769	7	207	1.52926e-79	240.618	cl29893	Pectinesterase superfamily	N	 - 
+Q#31 - >Si3G333900.1	superfamily	356769	118	413	6.80434e-81	251.019	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#32 - >Si2G137200.1	superfamily	356769	12	304	1.75767e-68	215.195	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#33 - >Si5G238200.1	superfamily	356769	10	286	2.46214e-75	232.144	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#34 - >Si5G027700.1	superfamily	356769	36	298	1.25728e-65	208.262	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#35 - >Si7G192100.1	superfamily	356769	48	340	4.61732e-72	225.595	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#36 - >Si2G414500.1	superfamily	356769	38	340	2.53526e-54	180.142	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#37 - >Si1G277100.1	superfamily	356769	44	316	8.26895e-63	201.328	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#38 - >Si8G237600.1	superfamily	356769	89	389	4.11653e-58	194.009	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#39 - >Si4G277000.1	superfamily	356769	55	338	2.43221e-51	172.053	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#40 - >Si1G371800.1	superfamily	356769	78	344	1.56906e-37	137	cl29893	Pectinesterase superfamily	 - 	 - 
+Q#41 - >Si5G186700.1	superfamily	356769	55	303	5.11154e-23	96.1684	cl29893	Pectinesterase superfamily	 - 	 - 
