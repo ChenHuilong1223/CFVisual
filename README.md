@@ -1,6 +1,10 @@
 # CFVisual
 CFVisual: An interactive desktop platform for drawing gene structure and protein architecture
 
+For the specific operation guide of the software, please refer to the "CFVisual_V2.1_English_Manual"/"CFVisual_V2.1_Chinese_Manual" file on the current page or the “Help” (Help -> English User Guide/Chinese User Guide) in the CFVisual software. For the sample file of CFVisual, please refer to the "Example.zip" or the files in "Example" folder on the current page, and the sample file instructions are documented in "readme.txt" in "Example.zip" or "Example" folder.
+
+If you have any questions about the software, please contact me.
+
 main interface
 
 ![image](https://user-images.githubusercontent.com/77657266/130469533-046c7759-bc5e-46e8-ab41-16ccba73ba80.png)
