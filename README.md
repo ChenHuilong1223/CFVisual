@@ -1,8 +1,6 @@
 # CFVisual
 CFVisual: An interactive desktop platform for drawing gene structure and protein architecture
 
-Download URL in China: https://gitee.com/ChenHuilong1223/CFVisual/releases/V2.1.1
-
 main interface
 
 ![image](https://user-images.githubusercontent.com/77657266/130469533-046c7759-bc5e-46e8-ab41-16ccba73ba80.png)
