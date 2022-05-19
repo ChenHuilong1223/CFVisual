@@ -6,6 +6,7 @@ For the specific operation guide of the software, please refer to the "CFVisual_
 If you use CFVisual in your paper, please cite it. Reference URL: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04707-w
 
 Cite:
+
 Chen, H., Song, X., Shang, Q., Feng, S., & Ge, W. (2022). CFVisual: an interactive desktop platform for drawing gene structure and protein architecture. BMC bioinformatics, 23(1), 1-8.
 
 If you have any questions about the software, please contact me. You can also visit this url: https://www.jianshu.com/p/97cb7c667d62
