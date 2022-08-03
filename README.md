@@ -16,7 +16,7 @@
 
 #### Download
 
-https://github.com/ChenHuilong1223/CFVisual/releases/tag
+https://github.com/ChenHuilong1223/CFVisual/releases
 
 #### **Citation**
 
