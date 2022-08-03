@@ -14,6 +14,12 @@
 
 **For the sample file of CFVisual,** please refer to the "Example.zip" or the files in "Example" folder on the current page, and the sample file instructions are documented in "readme.txt" in "Example.zip" or "Example" folder.
 
-**Citation**
+#### Download
+
+https://github.com/ChenHuilong1223/CFVisual/releases/tag
+
+#### **Citation**
 
 *Chen, H., Song, X., Shang, Q., Feng, S., & Ge, W. (2022). CFVisual: an interactive desktop platform for drawing gene structure and protein architecture. BMC Bioinformatics **23,** 178. https://doi.org/10.1186/s12859-022-04707-w*
+
+
