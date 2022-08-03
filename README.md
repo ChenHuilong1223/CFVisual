@@ -1,6 +1,6 @@
 # CFVisual
 
-#### CFVisual: An interactive desktop platform for drawing gene structure and protein architecture
+#### A Visualized Software for Comparetive Analysis of Gene Family
 
 | Authors | Huilong Chen                                            |
 | ------- | ------------------------------------------------------- |
